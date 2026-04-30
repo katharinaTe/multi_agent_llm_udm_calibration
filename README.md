@@ -51,3 +51,10 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 I
 You are free to use, share, and adapt this material for non-commercial purposes, provided that appropriate credit is given.
 
 For commercial use, please contact the author.
+
+### Citation
+** work in progress **, for appropriate citation, please contact the author.
+
+
+### References and Thanks
+Pichler, M. (2025). swmm_api: A Python Package for Automation, Customization, and Visualization in SWMM-Based Urban Drainage Modeling. Water, 17(9), 1373. https://doi.org/10.3390/w17091373
