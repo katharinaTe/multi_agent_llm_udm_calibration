@@ -1,12 +1,11 @@
 # multi_agent_llm_udm_calibration
 multi_agent_llm_udm_calibration
 
-# Agent-Based Calibration of a Sewer Model Using SWMM and LLMs
+# Agent-Based Calibration of Urban Drainage Models Using SWMM and LLMs
 ## Overview
 
-This repository contains a Jupyter notebook demonstrating an agent-based approach to calibrating a sewer/detention pond model. The workflow integrates the Storm Water Management Model (SWMM) with parameter optimization and large language model (LLM)-driven agents.
+This repository contains a Jupyter notebook demonstrating an agent-based approach to calibrating an urban drainage model (detention pond example). The workflow integrates the Storm Water Management Model (SWMM) with parameter optimization and large language model (LLM)-driven agents.
 
-The notebook explores how autonomous agents can support model calibration by interacting with simulation and evaluation tools.
 
 ## Authors
 This code has been created by Katharina Teuber at Jade Hochschule (University of Applied Sciences)
